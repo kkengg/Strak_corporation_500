@@ -1,41 +1,41 @@
 Year,Month,Date,Event ID,Start Date,End Date,Event,REMARK
-2561,December,21,1,21-?.?.-61,-,Corporate,"TAH, which holds Phelps Dodge, acquires the newly issued ordinary shares of SMM."
-2562,February,21,2,21-?.?.-62,-,Market,
-2562,July,25,3,25-?.?.-62,-,Corporate,STARK is listed with Backdoor SMM
-2562,November,20,4,20-?.?.-62,-,Market,
-2563,March,23,5,23-??.?.-63,-,Corporate,Acquisition of cable business in Vietnam
-2563,July,27,6,27-?.?.-63,-,Corporate,Acquire wire business Thai Cable (TCI)
-2564,September,2,7,2-?.?.-64,17-?.?.-65,Bond,"STARK239A (2 years old) : 1,291 million baht"
-2564,September,2,8,2-?.?.-64,17-?.?.-65,Bond,STARK249A (3 years old) : 949 million baht
-2565,May,12,9,12-?.?.-65,17-?.?.-65,Bond,"STARK23206A (9 months old): 1,500 million baht"
-2565,May,12,10,12-?.?.-65,17-?.?.-65,Bond,"STARK245A (2 years old) : 1,701 million baht"
-2565,May,12,11,12-?.?.-65,17-?.?.-65,Bond,"STARK255A (3 years old) : 1,322 million baht"
-2565,November,17,12,17-?.?.-65,17-?.?.-65,Bond,"STARK242A (2 years old) : 3,934 million baht"
-2565,May,23,13,23/5/2565,-,Corporate,"Invested in LEONI Group (Germany) worth about 20,000 million baht."
-2565,July,29,14,29-?.?.-65,-,Corporate,
-2565,September,23,15,23-?.?.-65,-,Corporate,Shareholders approved to invest in LEONI group.
-2565,October,10,16,10-?.?.-65,-,Corporate,"Report on the results of the sale of capital increase shares (PP) 5,580 million baht"
-2565,December,13,17,13-?.?.-65,-,Corporate,STARK informs not investing in LEONI
-2565,December,21,18,21-?.?.-65,-,Corporate,Issue guidelines for making Treasury Stock
-2566,January,27,19,27-?.?.-66,-,Corporate,
-2566,February,10,20,10-?.?.-66,-,Corporate,
-2566,February,28,21,28-?.?.-66,-,Corporate,Announcement to send budget year 2022 on 31 March 2023
-2566,March,1,22,1-??.?.-66,-,Market,Up SP due to late submission of statements
-2566,March,27,23,27-??.?.-66,-,Corporate,The Chairman of the Audit Committee has notified the SEC regarding the establishment of a Special Audit/postponement of the 1st financial statements.
-2566,April,25,24,25-??.?.-66,-,Corporate,
-2566,April,22,25,22-??.?.-66,-,Bond,
-2566,April,24,26,24-??.?.-66,-,Corporate,
-2566,April,28,27,28-??.?.-66,-,Bond,Except for the event of default on the payment of all 5 bonds
-2566,May,17,28,17-?.?.-66,-,Corporate,
-2566,May,19,29,19-?.?.-66,-,Corporate,
-2566,May,31,30,31-?.?.-66,-,Bond,Bondholders resolve to approve the recovery of the principal and interest.
-2566,June,1,31,1-??.?.-66,-,Market,
-2566,June,2,32,2-??.?.-66,-,Bond,
-2566,June,16,33,16-??.?.-66,-,Corporate,Submitting the annual budget The operating results have dropped significantly.
-2566,June,19,34,19-??.?.-66,-,Market,"Alert News is subject to delisting (NP, NC)"
-2566,June,20,35,20-??.?.-66,-,Bond,"debenture holder representative Call for repayment of principal and accrued interest of STARK245A, STARK255A and STARK242A."
-2566,June,21,36,21-??.?.-66,-,Market,
-2566,July,1,37,1-?.?.-66,-,Market,Set up SP for reasons that fall into the scope of being revoked
+2018,12,21,1,21/12/2018,-,Corporate,"TAH, which holds Phelps Dodge, acquires the newly issued ordinary shares of SMM."
+2019,2,21,2,21/2/2019,-,Market,
+2019,7,25,3,25/7/2019,-,Corporate,STARK is listed with Backdoor SMM
+2019,11,20,4,20/11/2019,-,Market,
+2020,3,23,5,23/3/2020,-,Corporate,Acquisition of cable business in Vietnam
+2020,7,27,6,27/7/2020,-,Corporate,Acquire wire business Thai Cable (TCI)
+2021,9,2,7,2/9/2021,17 November 2565,Bond,"STARK239A (2 years old) : 1,291 million baht"
+2021,9,2,8,2/9/2021,17 November 2565,Bond,STARK249A (3 years old) : 949 million baht
+2022,5,12,9,12/5/2022,17 November 2565,Bond,"STARK23206A (9 months old): 1,500 million baht"
+2022,5,12,10,12/5/2022,17 November 2565,Bond,"STARK245A (2 years old) : 1,701 million baht"
+2022,5,12,11,12/5/2022,17 November 2565,Bond,"STARK255A (3 years old) : 1,322 million baht"
+2022,11,17,12,17/11/2022,17 November 2565,Bond,"STARK242A (2 years old) : 3,934 million baht"
+2022,5,23,13,23/5/2022,-,Corporate,"Invested in LEONI Group (Germany) worth about 20,000 million baht."
+2022,7,29,14,29/7/2022,-,Corporate,
+2022,9,23,15,23/9/2022,-,Corporate,Shareholders approved to invest in LEONI group.
+2022,10,10,16,10/10/2022,-,Corporate,"Report on the results of the sale of capital increase shares (PP) 5,580 million baht"
+2022,12,13,17,13/12/2022,-,Corporate,STARK informs not investing in LEONI
+2022,12,21,18,21/12/2022,-,Corporate,Issue guidelines for making Treasury Stock
+2023,1,27,19,27/1/2023,-,Corporate,
+2023,2,10,20,10/2/2023,-,Corporate,
+2023,2,28,21,28/2/2023,-,Corporate,Announcement to send budget year 2022 on 31 March 2023
+2023,3,1,22,1/3/2023,-,Market,Up SP due to late submission of statements
+2023,3,27,23,27/3/2023,-,Corporate,The Chairman of the Audit Committee has notified the SEC regarding the establishment of a Special Audit/postponement of the 1st financial statements.
+2023,4,25,24,25/4/2023,-,Corporate,
+2023,4,22,25,22/4/2023,-,Bond,
+2023,4,24,26,24/4/2023,-,Corporate,
+2023,4,28,27,28/4/2023,-,Bond,Except for the event of default on the payment of all 5 bonds
+2023,5,17,28,17/5/2023,-,Corporate,
+2023,5,19,29,19/5/2023,-,Corporate,
+2023,5,31,30,31/5/2023,-,Bond,Bondholders resolve to approve the recovery of the principal and interest.
+2023,6,1,31,1/6/2023,-,Market,
+2023,6,2,32,2/6/2023,-,Bond,
+2023,6,16,33,16/6/2023,-,Corporate,Submitting the annual budget The operating results have dropped significantly.
+2023,6,19,34,19/6/2023,-,Market,"Alert News is subject to delisting (NP, NC)"
+2023,6,20,35,20/6/2023,-,Bond,"debenture holder representative Call for repayment of principal and accrued interest of STARK245A, STARK255A and STARK242A."
+2023,6,21,36,21/6/2023,-,Market,
+2023,7,1,37,1/7/2023,-,Market,Set up SP for reasons that fall into the scope of being revoked
 ,,,,,,,
 ,,,,,,,
 Ref:https://thunhoon.com/article/275039,,,,,,,
