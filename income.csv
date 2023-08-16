@@ -1,4 +1,10 @@
-Year,Incomecable_indomesric,Incomecable_internation,sumincome
-2562,8919.84,1229.74,10149.58
-2563,12814.85,2255.86,15070.71
-2564,10890.92,14326.38,25217.30
+type,value,year
+Incomecable_indomesric,8919.84,2562
+Incomecable_internation,1229.74,2563
+sumincome,10149.58,2564
+Incomecable_indomesric,12814.85,2562
+Incomecable_internation,2255.86,2563
+sumincome,15070.71,2564
+Incomecable_indomesric,10890.92,2562
+Incomecable_internation,14326.38,2563
+sumincome,25217.3,2564
