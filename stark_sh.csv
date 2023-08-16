@@ -1,12 +1,15 @@
-Name,sh
-Vanarat tankkarawakul,26.85
-"CREDIT SUISSE AG, SINGAPORE BRANCH",21.85
-Stark Investment Corporation Limited,21.00
-Thai NVDR Company Limited,2.55
-"BBL Asset Management Co.,Ltd.",2.32
-SOUTH EAST ASIA UK (TYPE C) NOMINEES LIMITED,1.70
-MR. Vonnarat Tangkaravakoon,1.47
-Nattapat Suoanan,1.40
-Naret Ngamapichon,1.29
-Thai Life Insurance Public Co. Ltd,1.08
-Minor shareholder,28.84
+type,name,sh
+Stark,Vanarat tankkarawakul,26.85
+Stark,"CREDIT SUISSE AG, SINGAPORE BRANCH",21.85
+Stark,Stark Investment Corporation Limited,21
+Stark,Thai NVDR Company Limited,2.55
+Stark,"BBL Asset Management Co.,Ltd.",2.32
+Stark,SOUTH EAST ASIA UK (TYPE C) NOMINEES LIMITED,1.7
+Stark,MR. Vonnarat Tangkaravakoon,1.47
+Stark,Nattapat Suoanan,1.4
+Stark,Naret Ngamapichon,1.29
+Stark,Thai Life Insurance Public Co. Ltd,1.08
+Stark,Minor shareholder,28.84
+TAH,Vanarat tankkarawakul,100
+TAH,Suwat Cheangchoti,0
+TAH,Apichart tangeakchit,0
