@@ -1,8 +1,4 @@
-no.,sh,number,%sh
-1,Stark Cooeration,"1,886,375",99.28
-2,Kritsada Kanjanajaree,"10,754",0.57
-3,Budsakorn Kanjanajaree,"1,425",0.07
-4,Parimol Kanjanajaree,"1,425",0.07
-5,Santipap Sornkup,10,0
-6,Chalermpan Velavitaya,10,0
-7,Adisorn Songkhla,1,0
+no.,1,2,3,4,5,6,7
+sh,Stark Cooeration,Kritsada Kanjanajaree,Budsakorn Kanjanajaree,Parimol Kanjanajaree,Santipap Sornkup,Chalermpan Velavitaya,Adisorn Songkhla
+number,"1,886,375","10,754","1,425","1,425",10,10,1
+%sh,99.28,0.57,0.07,0.07,0,0,0
