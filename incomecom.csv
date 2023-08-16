@@ -1,4 +1,7 @@
-Year,incomecable,incomehr
-2562,10149.58,1238.55
-2563,15070.71,1530.69
-2564,25217.30,1705.96
+type,Value,Year
+incomecable,10149.58,2562
+incomecable,15070.71,2563
+incomecable,25217.30,2564
+incomehr,1238.55,2562
+incomehr,1530.69,2563
+incomehr,1705.96,2564
