@@ -1,7 +1,7 @@
-type,value,year
-capacity,99010.00,2562
-capacity,113975.00,2563
-capacity,128118.00,2564
-percapacity,0,2562
-percapacity,0.151146349,2563
-percapacity,0.124088616,2564
+year,type,value
+2562,capacity,99010
+2563,capacity,113975
+2564,capacity,128118
+2562,percapacity,0
+2563,percapacity,0.151146349
+2564,percapacity,0.124088616
