@@ -7,6 +7,7 @@ year,type,value
 2561,profit,462964652
 2561,inventorie,3358723004
 2561,trade_payable,4395109903
+2561,perincome,16.1
 2562,dept,8759346191
 2562,profit,479351199
 2562,inventorie,3671416870
@@ -19,3 +20,7 @@ year,type,value
 2564,profit,1570309542
 2564,inventorie,5701890496
 2564,trade_payable,23441884288
+2562,perincome,32.33
+2563,perincome,-2.77
+2564,perincome,49.87
+2565,perincome,80.48
